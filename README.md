@@ -2,7 +2,7 @@
 <b>static folder</b> contains all the CSS and images<br>
 <b>template folder</b> contains all the HTML pages<br>
 <b>api.py</b> file contains all the route to HTML pages and python scripts<br>
-<b>Note:</b> if you want don't know much about FLASK and webapp, go through : https://medium.com/@pemagrg/build-a-web-app-using-pythons-flask-for-beginners-f28315256893
+<b>Note:</b> if you want don't know much about FLASK and webapp, go through : https://medium.com/@pemagrg/build-a-web-app-using-pythons-flask-for-beginners-f28315256893 <br>
 <b>```summary.py```</b> is our current algorithm implementation 
 
 # To Execute
