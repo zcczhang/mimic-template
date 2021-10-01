@@ -1,6 +1,7 @@
 wordnet
 pros_cons
 reuters
+averaged_perceptron_tagger
 maxent_treebank_pos_tagger
 universal_tagset
 punkt
@@ -12,4 +13,10 @@ porter_test
 vader_lexicon
 treebank
 dependency_treebank
-stopwords
+tagsets
+bllip_wsj_no_aux
+moses_sample
+wmt15_eval
+word2vec_sample
+mwa_ppdb
+perluniprops
