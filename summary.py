@@ -1,7 +1,6 @@
 from typing import List
-
-# import nltk
-# nltk.download('punkt')
+import nltk
+nltk.download()
 from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.corpus import stopwords
 from nltk import pos_tag
